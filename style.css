@@ -1,0 +1,27 @@
+h1 , h2 ,h3
+
+{
+	color:pink 
+}
+ p
+ {
+ 	font-size: 1.2em 
+ }
+
+p 
+{
+	font-family: Arial ,Verdana 
+}
+h6 
+{
+	font-size: small;
+}
+
+h1 ,h2,h3
+{
+	text-decoration: underline;
+}
+h1,h2,h3,h6,p
+{
+	text-align: center;
+}
